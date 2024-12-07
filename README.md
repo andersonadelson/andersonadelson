@@ -7,7 +7,7 @@
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-blue)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 [![AWS Academy Certified Educator](https://img.shields.io/badge/AWS%20Academy-Certified%20Educator-blue)](https://aws.amazon.com/training/academy/)
 
-Com mais de 15 anos de experiência em TI, atuei em áreas como educação, marketing e indústria. Apaixonado por tecnologia e ensino, atuei como desenvolvedor web, professor e arquiteto de nuvem certificado pela AWS, Google e Azure. Com formação em MBA em Gerenciamento de TI, Graduação em Web Design e Técnico em Informática, tenho habilidades avançadas em:
+With over 15 years of experience in IT, I have worked in areas such as education, marketing, and industry. Passionate about technology and teaching, I have worked as a web developer, teacher, and cloud architect certified by AWS, Google, and Azure. With an MBA in IT Management, a degree in Web Design, and a Technical degree in Computer Science, I have advanced skills in:
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -22,7 +22,7 @@ Com mais de 15 anos de experiência em TI, atuei em áreas como educação, mark
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Certificações
+### Certifications
 
 - Google Cloud Certified: Associate Cloud Engineer
 - Microsoft Certified: Azure Fundamentals, Azure Data Fundamentals, Azure AI Fundamentals
