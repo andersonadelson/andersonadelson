@@ -5,7 +5,7 @@
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-blue)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 [![AWS Academy Certified Educator](https://img.shields.io/badge/AWS%20Academy-Certified%20Educator-blue)]([https://aws.amazon.com/training/academy/](https://www.credly.com/badges/93c61a9b-1b94-4a78-b4b3-24b06f6930b5))
 
-With over 15 years of experience in IT, I have worked in areas such as education, marketing, and industry. Passionate about technology and teaching, I have worked as a web developer, teacher, and cloud architect certified by AWS, Google, and Azure. With an MBA in IT Management, a degree in Web Design, and a Technical degree in Computer Science, I have advanced skills in:
+With over 15 years of experience in IT, I have worked in areas such as education, marketing, and industry. Passionate about technology and teaching, I have worked as a web developer, teacher, and cloud architect certified by AWS, Google, and Azure. With an MBA in IT Management, a degree in Web Design, and a Technical degree in Computing, I have advanced skills in:
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
