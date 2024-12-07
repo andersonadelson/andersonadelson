@@ -3,7 +3,7 @@
 [![Microsoft Certified: Azure Data Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-blue)](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)
 [![Microsoft Certified: Azure AI Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-blue)](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/)
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-blue)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[![AWS Academy Certified Educator](https://img.shields.io/badge/AWS%20Academy-Certified%20Educator-blue)](https://aws.amazon.com/training/academy/)
+[![AWS Academy Certified Educator](https://img.shields.io/badge/AWS%20Academy-Certified%20Educator-blue)]([https://aws.amazon.com/training/academy/](https://www.credly.com/badges/93c61a9b-1b94-4a78-b4b3-24b06f6930b5))
 
 With over 15 years of experience in IT, I have worked in areas such as education, marketing, and industry. Passionate about technology and teaching, I have worked as a web developer, teacher, and cloud architect certified by AWS, Google, and Azure. With an MBA in IT Management, a degree in Web Design, and a Technical degree in Computer Science, I have advanced skills in:
 
