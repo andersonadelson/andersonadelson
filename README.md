@@ -1,3 +1,5 @@
+![Developer](developer.jpg)
+
 [![Google Cloud Certified: Associate Cloud Engineer](https://img.shields.io/badge/Google%20Cloud%20Certified-Associate%20Cloud%20Engineer-blue)](https://cloud.google.com/certification/cloud-engineer)
 [![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-blue)](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
 [![Microsoft Certified: Azure Data Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-blue)](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)
